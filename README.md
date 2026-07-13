@@ -34,12 +34,9 @@ The PDF files in this repository are intended for reading, annotation, and revie
 
 ## Contact
 
-**Instructor:** Yang Yang<br>
-
-Department of Political Science<br>
-
-Pennsylvania State University<br><br>
-
+**Instructor:** Yang Yang
+Department of Political Science
+Pennsylvania State University
 **Email:** <yang.yang@psu.edu>
 
 For course announcements, assignments, and grades, please refer to **Canvas**.
