@@ -32,17 +32,6 @@ The PDF files in this repository are intended for reading, annotation, and revie
 
 ---
 
-## Software
-
-Students should install the following software before the first lab:
-
-- R
-- RStudio
-
-Installation guides are available on Canvas and in the course syllabus.
-
----
-
 ## Contact
 
 **Instructor:** Yang Yang  
