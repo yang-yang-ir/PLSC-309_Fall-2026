@@ -23,12 +23,10 @@ Typical contents include:
 
 ## Lecture Slides
 
-Lecture slides will be posted **by 10:00 a.m. (ET)** on the day of each class.
+Lecture slides will be posted **by 12:00 p.m. (ET)** on the day of each class.
 
-- **Canvas:** PowerPoint (.pptx) version
-- **GitHub:** PDF version
-
-The PDF files in this repository are intended for reading, annotation, and review.
+- **Canvas:** 
+- **GitHub:** 
 
 ---
 
